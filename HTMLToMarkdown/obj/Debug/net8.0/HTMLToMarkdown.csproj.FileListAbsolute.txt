@@ -35,3 +35,4 @@
 /Users/sowtak/proj/browser-extension/HTMLToMarkdown/HTMLToMarkdown/bin/Debug/net8.0/HtmlAgilityPack.dll
 /Users/sowtak/proj/browser-extension/HTMLToMarkdown/HTMLToMarkdown/bin/Debug/net8.0/Newtonsoft.Json.dll
 /Users/sowtak/proj/browser-extension/HTMLToMarkdown/HTMLToMarkdown/bin/Debug/net8.0/ReverseMarkdown.dll
+/Users/sowtak/proj/browser-extension/HTMLToMarkdown/HTMLToMarkdown/obj/Debug/net8.0/HTMLToMarkdown.sourcelink.json

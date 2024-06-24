@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HTMLToMarkdown")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+63044798bb30f1c871da6a60f716d262857bca47")]
 [assembly: System.Reflection.AssemblyProductAttribute("HTMLToMarkdown")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HTMLToMarkdown")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
